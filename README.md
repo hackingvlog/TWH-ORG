@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="hackingvlog.png" alt="HackingVlog Banner" width="100%" />
+  <img src="TWH-ORG.png" alt="TWH-ORG Banner" width="100%" />
 </p>
 
-<h1 align="center">👋 Welcome to HackingVlog on GitHub!</h1>
+<h1 align="center">👋 Welcome to TWH-ORG on GitHub!</h1>
 
 <p align="center">
-  This is the official GitHub space for <strong>HackingVlog</strong> — your go-to source for cybersecurity tips, ethical hacking tutorials, and tech deep-dives.
+  This is the official GitHub space for <strong>TWH-ORG</strong> — your go-to source for cybersecurity tips, ethical hacking tutorials, and tech deep-dives.
 </p>
 
 ---
@@ -19,19 +19,19 @@ We're passionate about **ethical hacking**, **cybersecurity education**, and sha
 
 ---
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hackingvlog&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hackingvlog&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hackingvlog&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=TWH-ORG&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=TWH-ORG&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TWH-ORG&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hackingvlog&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=TWH-ORG&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ---
 ## 📁 What You'll Find Here
 
 - 🧠 Ethical Hacking Scripts & Tools  
 - 💻 Bug Bounty Practice Labs  
 - 🔒 Cybersecurity Projects & Resources  
-- 📚 Code from HackingVlog YouTube Tutorials  
+- 📚 Code from TWH-ORG YouTube Tutorials  
 
 ---
 # 💻 Tech Stack:
@@ -91,7 +91,7 @@ We're passionate about **ethical hacking**, **cybersecurity education**, and sha
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hackingvlog&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=TWH-ORG&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
 
 ## 🔗 Connect with Me
@@ -114,4 +114,4 @@ We're passionate about **ethical hacking**, **cybersecurity education**, and sha
 ---
 
 > Thanks for visiting! Stay curious, stay secure. 🛡️  
-> — **HackingVlog Team**
+> — **TWH-ORG Team**
